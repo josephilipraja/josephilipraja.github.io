@@ -1,9 +1,12 @@
-<!doctype html>
+<?php 
+  header('Location: http://www.josephilipraja.com/',true,302);
+  exit();
+?><!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>WebLab of Jose Philip Raja by josephilipraja</title>
+    <title>WebLab of Jose Philip Raja</title>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
